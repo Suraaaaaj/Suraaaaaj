@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on DSA related discussion
 - 📫 Reach me at linkedin.com/in/surajbbd2811
 
-![Visitor Count](https://profile-counter.glitch.me/{YOUR USER}/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/{Suraaaaaj}/count.svg)
 
 <!---
 Suraaaaaj/Suraaaaaj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
