@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Suraaaaaj
 - 👀 I’m interested in developement and DSA
-- 🌱 I’m currently learning ReactJS
+- 🌱 I’m currently learning NodeJS 
 - 💞️ I’m looking to collaborate on DSA related discussion
 - 📫 Reach me at linkedin.com/in/surajbbd2811
 
