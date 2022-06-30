@@ -4,6 +4,7 @@
 - 💞️ I’m looking to collaborate on DSA related discussion
 - 📫 Reach me at linkedin.com/in/surajbbd2811
 
+<h1> Visitor Count </h1>
 ![Visitor Count](https://profile-counter.glitch.me/{Suraaaaaj}/count.svg)
 
 <!---
