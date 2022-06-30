@@ -2,7 +2,7 @@
 - 👀 I’m interested in developement and DSA
 - 🌱 I’m currently learning NodeJS 
 - 💞️ I’m looking to collaborate on DSA related discussion
-- 📫 Reach me at <a href="https://www.linkedin.com/in/surajbbd2811">LinkedIn</a>
+- 📫 Reach me at <a href="https://www.linkedin.com/in/surajbbd2811">LinkedIn</a> <a href="https://www.instagram.com/_suraaaaaaj/?hl=en"><img src="https://www.freepik.com/free-vector/instagram-icon_954290.htm"></a>
 
 <h1> Visitor Count </h1>
 
